@@ -9,7 +9,7 @@ function App() {
   return (
     <div className=" min-h-screen flex flex-col items-center justify-center md:px-32 px-5">
     <h1 className=" text-4xl font-semibold text-center lg:pt-16 pt-24 pb-10">
-      Opiniones de usuarios
+      Opinion de usuarios
     </h1>
     <div className=" flex flex-col md:flex-row gap-5 mt-5">
       <ReviewCard img={img7} name="Gustavo" reviewText= "Increíble experiencia en la página de viajes. Navegación fácil, información detallada y una amplia variedad de destinos. ¡Planificar mi próximo viaje nunca fue tan emocionante y sencillo!" />
