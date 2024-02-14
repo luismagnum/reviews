@@ -48,8 +48,8 @@ const Foter = () => {
         </div>
       </div>
       <div className='grid grid-cols-2 gap-4 mt-10 mb-10'>
-       <span className='text-sm ml-12'>@2024Todos los derechos reservados</span>
-       <span className='text-sm ml-80'>
+       <span className='text-sm sm:ml-6 md:ml-8'>@2024Todos los derechos reservados</span>
+       <span className='text-sm md:ml-80'>
         Politicas de privacidad 
         <span className='ml-4'>Terminos y condiciones</span>
        </span>
